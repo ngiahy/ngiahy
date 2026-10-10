@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/hydev.svg" width="1200" alt="Hy Dev - official" />
+  <img src="svg/hydev.svg" width="1200" alt="Dev Hy - official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
